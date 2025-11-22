@@ -92,7 +92,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 22
       - run: npm install
       - run: npm run build
       - uses: peaceiris/actions-gh-pages@v3

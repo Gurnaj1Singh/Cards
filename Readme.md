@@ -117,9 +117,4 @@ Pull requests are welcome! Feel free to improve the UI, enhance accessibility, o
 
 ---
 
-## 📜 License
-This project is open-source under the **MIT License**.
-
----
-
 ### ⭐ If you like this project, consider giving the repository a star on GitHub!
